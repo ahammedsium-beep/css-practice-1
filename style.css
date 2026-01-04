@@ -26,3 +26,17 @@ h3
 {
     background-color: #00FFFF;
 }
+
+#secondpagelink
+{
+    text-decoration: none;
+    color: black;
+}
+
+#button
+{
+    background-color: antiquewhite;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
