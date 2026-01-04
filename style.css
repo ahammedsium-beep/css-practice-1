@@ -21,3 +21,8 @@ h3
 {
     text-decoration: underline;
 }
+
+.highlight
+{
+    background-color: #00FFFF;
+}
